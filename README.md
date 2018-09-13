@@ -2,7 +2,7 @@
 
 A typescript boilerplate to publish modules to npm
 
-## Usage
+## Dev mode
 
 Clone this repo, and start adding your code in the `index.ts` file.  
 When you are done, write the tests in the `index.test.ts` file. For testing, this repo works with [Jest](https://facebook.github.io/jest/).
@@ -12,7 +12,7 @@ and send it to npm.
 
 Make sure to change the name of the package in `package.json`
 
-## Features
+## Dev Features
 * Testing with Jest
 * Linting out of the box (checks the style of your code), with TSLint
 * Build, prepublish and other scripts to help you to develop
