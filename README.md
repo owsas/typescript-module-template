@@ -18,7 +18,7 @@ Make sure to change the name of the package in `package.json`
 * Build, prepublish and other scripts to help you to develop
 * Works with Typescript: Static typing for your JS Applications, reducing amount of runtime errors
 * Coverage out of the box, thanks to Jest
-* Uses deterministic module resolving, with Yarn
+* Uses deterministic module resolving, with `package-lock.json`
 
 ## Credits
 
