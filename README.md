@@ -1,6 +1,6 @@
 # Typescript module template
 
-A typescript boilerplate to publish modules to npm
+A typescript boilerplate to publish modules to npm. Also available as a `yeoman` generator, here: https://github.com/owsas/generator-typescript-module
 
 ## Dev mode
 
